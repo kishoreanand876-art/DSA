@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
 
 </details>
 
