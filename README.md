@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 848 | [Shifting Letters](./Array/Shifting%20Letters/) | Easy |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](./Array/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/) | Easy |
 | 1524 | [Number of Sub-arrays With Odd Sum](./Array/Number%20of%20Sub-arrays%20With%20Odd%20Sum/) | Medium |
 
 </details>
