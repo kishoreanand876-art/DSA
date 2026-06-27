@@ -24,6 +24,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
+| 1524 | [Number of Sub-arrays With Odd Sum](./Array/Number%20of%20Sub-arrays%20With%20Odd%20Sum/) | Medium |
 
 </details>
 
