@@ -28,6 +28,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](./Array/Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/) | Easy |
 | 1524 | [Number of Sub-arrays With Odd Sum](./Array/Number%20of%20Sub-arrays%20With%20Odd%20Sum/) | Medium |
+| 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
 
 </details>
 
